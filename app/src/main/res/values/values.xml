@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">922239291491-r939f4h407shsqki0i69qn2d6bdfdksp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">922239291491</string>
+    <string name="google_api_key" translatable="false">AIzaSyD4Urm6V7QYHhg9jvZemPp3H1v9J4vN1KY</string>
+    <string name="google_app_id" translatable="false">1:922239291491:android:95fbe18434656afcc7e856</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD4Urm6V7QYHhg9jvZemPp3H1v9J4vN1KY</string>
+    <string name="google_storage_bucket" translatable="false">musicapp-c4fe0.appspot.com</string>
+    <string name="project_id" translatable="false">musicapp-c4fe0</string>
+</resources>

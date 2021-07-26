@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456905696149",
+    "project_id": "moodclassifier-c2bdc",
+    "storage_bucket": "moodclassifier-c2bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456905696149:android:737db06657101b7e57cc9c",
+        "android_client_info": {
+          "package_name": "com.shubham.moodclassifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456905696149-k40p8i089a9dam065uqb6gghuivce964.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqImRqt1CP5gQ8t_JunzdA6wFGmtPX_NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456905696149-k40p8i089a9dam065uqb6gghuivce964.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

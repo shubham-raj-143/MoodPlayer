@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoodClassifier</string>
+    <string name="errortflite">Classifier and Views, not classified!!</string>
+    <string name="no_motion_detected">No Mood Detected!</string>
+</resources>

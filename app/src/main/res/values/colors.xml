@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#380036</color>
+    <color name="purple_500">#450A43</color>
+    <color name="purple_700">#61135F</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="bg1">#E4AFAF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_color">#000000</color>
+    <color name="icon">#3A0124</color>
+    <color name="red">#C60A0A</color>
+    <color name="background">@drawable/bg1_gradient</color>
+    <color name="button">#DC050505</color>
+    <color name="button2">@drawable/bg3_gradient</color>
+    <color name="toolbar_color">#380036</color>
+    <color name="lightpurple">#B284E1</color>
+    <color name="yellow">#80FFF200</color>
+    <color name="trans">#00000000</color>
+</resources>
